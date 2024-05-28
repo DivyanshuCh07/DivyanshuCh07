@@ -14,7 +14,7 @@ Welcome to my GitHub profile. I'm a second-year Bachelor's of Engineering studen
   - Machine Learning
 
 ## About Me
-I'm deeply interested in exploring the intersection of technology and humanity, particularly in the fields of AI and ML. I love to dive into challenging problems and find creative solutions. Apart from coding, I enjoy [mention any hobbies or interests outside of tech if you'd like].
+I'm deeply interested in exploring the intersection of technology and humanity, particularly in the fields of AI and ML. I love to dive into challenging problems and find creative solutions. Apart from coding, I have a good interest in chess, cricket and reading novels.
 
 ## Get in Touch
 Feel free to connect with me on www.linkedin.com/in/divyanshu-choudhary-b73801251. I'm always open to collaborations, discussions, and new opportunities!
