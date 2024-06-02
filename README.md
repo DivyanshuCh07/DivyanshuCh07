@@ -1,6 +1,6 @@
 # Hello, I'm Divyanshu Choudhary!
 
-Welcome to my GitHub profile. I'm a second-year Bachelor's of Engineering student passionate about software development, AI, and machine learning. Here's a bit about me:
+Welcome to my GitHub profile. I'm a Bachelor's of Engineering student passionate about software development, AI, and machine learning. Here's a bit about me:
 
 ## Skills
 - Proficient in:
