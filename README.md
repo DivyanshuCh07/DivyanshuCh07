@@ -2,18 +2,18 @@
 Welcome to my GitHub profile! I am an aspiring Data Scientist and Software Developer, currently pursuing a Bachelor’s degree in Electronics and Computer Engineering at MBM University, Jodhpur. I am passionate about solving real-world problems through data science, machine learning, and software development.
 
 ## 🛠️ Skills
-Programming Languages:
-Proficient: C, C++, Python, Java
-Front-end Development: HTML, CSS, JavaScript
-Databases: SQL
-Data Science & AI:
-Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power BI
-Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch
-Algorithms: Association Rule Mining, Regression, Classification
-Hardware & Electronics:
-Circuit Design: Proteus, DipTrace, Multisim
-Microcontrollers: Arduino, Raspberry Pi
-Tools: MATLAB, CIDAR Logic
+#### Programming Languages:
+###### Proficient: C, C++, Python, Java
+###### Front-end Development: HTML, CSS, JavaScript
+###### Databases: SQL
+#### Data Science & AI:
+###### Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+###### Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch
+###### Algorithms: Association Rule Mining, Regression, Classification
+#### Hardware & Electronics:
+###### Circuit Design: Proteus, DipTrace, Multisim
+###### Microcontrollers: Arduino, Raspberry Pi
+###### Tools: MATLAB, CIDAR Logic
 
 ## 📂 Projects
 ### Market Basket Analysis
@@ -37,15 +37,15 @@ Data Science Intern at DataPlay, contributing to market analysis and supply chai
 Active participant in Google Developer’s Student Club and Aarogyam Club.
 
 ## 🤝 Let’s Connect
-LinkedIn: https://www.linkedin.com/in/divyanshu-choudhary-b73801251
-GitHub: https://github.com/DivyanshuCh07
-LeetCode: DivyanshuCh_123
-CodeChef: Divyanshu3684
+LinkedIn: Divyanshu Choudhary - https://www.linkedin.com/in/divyanshu-choudhary-b73801251  
+GitHub: DivyanshuCh07 - https://github.com/DivyanshuCh07  
+LeetCode: Divyanshu_123 - https://leetcode.com/u/DivyanshuCh_123/  
+CodeChef: Divyanshu3684 - https://www.codechef.com/users/divyanshu3684
 
 ## 🚀 Goals
 I am driven to explore the intersection of data science and technology, leveraging my skills to build impactful solutions. I am eager to collaborate, contribute to open-source projects, and grow alongside the global developer community.
 
 ## 💡 Motto
-"Learning never stops, and innovation begins where challenges arise."
+"Learning never stops, and innovation begins where challenges arise."  
 #KeepLearning #DataScience #SoftwareDevelopment #MachineLearning #OpenSource
 
