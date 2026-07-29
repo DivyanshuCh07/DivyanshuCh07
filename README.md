@@ -1,51 +1,226 @@
-# 👋 Hello, I'm Divyanshu Choudhary! 🚀 
-🌟 Welcome to my GitHub profile! I am an aspiring Data Scientist and Software Developer, currently pursuing a Bachelor’s degree in Electronics and Computer Engineering at MBM University, Jodhpur. I am passionate about solving real-world problems through data science, machine learning, and software development.
+<div align="center">
 
-## 🛠️ Skills
-#### Programming Languages:
-- ###### Proficient: C, C++, Python, Java
-- ###### Front-end Development: HTML, CSS, JavaScript
-- ###### Databases: SQL
-#### Data Science & AI:
-- ###### Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- ###### Machine Learning Frameworks: Scikit-learn, TensorFlow, PyTorch
-- ###### Algorithms: Association Rule Mining, Regression, Classification
-#### Hardware & Electronics:
-- ###### Circuit Design: Proteus, DipTrace, Multisim
-- ###### Microcontrollers: Arduino, Raspberry Pi
-- ###### Tools: MATLAB, CIDAR Logic
+# Hi 👋, I'm Divyanshu Choudhary
 
-## 📂 Projects
-### Market Basket Analysis
-- Used Python, mlxtend, and scikit-learn to uncover purchasing patterns and generate actionable insights.
-- Enhanced customer shopping experiences through data-driven recommendations.
-### Supply Chain Analysis
-- Optimized inventory and logistics using Power BI dashboards and interactive data visualizations.
-- Improved operational efficiency by identifying and resolving bottlenecks.
-### Metal Detector
-- Developed a metal detector using principles of electromagnetic induction.
-- Designed the circuit using Proteus and programmed microcontrollers for signal processing.
+### Software Engineer • AI & Cybersecurity Enthusiast • Backend Developer • Researcher
 
-## 🎓 Education
-- 🌐 MBM University, Jodhpur (Rajasthan)  
-- 🔍 Bachelor’s in Electronics & Computer Engineering (2022 – Present) | CGPA: 7.82
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+Secure+Software.;Backend+Developer.;AI+%26+Machine+Learning.;Cybersecurity+Engineer.;Always+Learning+Something+New." alt="Typing SVG"/>
 
-## 🌟 Achievements
-- 🏅 Participated in the Kharagpur Data Science Hackathon 2025, representing Team Data Dazzlers.
-- 🏆 Data Science Intern at DataPlay, contributing to market analysis and supply chain optimization.
-- 📜 Active participant in Google Developer’s Student Club and Aarogyam Club.
+</div>
 
-## 🤝 Let’s Connect
-- 💼 LinkedIn: Divyanshu Choudhary - https://www.linkedin.com/in/divyanshu-choudhary-b73801251  
-- ⭐️ GitHub: DivyanshuCh07 - https://github.com/DivyanshuCh07  
-- 📡 LeetCode: Divyanshu_123 - https://leetcode.com/u/DivyanshuCh_123/  
-- 🏗 CodeChef: Divyanshu3684 - https://www.codechef.com/users/divyanshu3684
-- ✉️ Email ID: Divyanshu3684@gmail.com
+---
 
-## 🚀 Goals
-🌍 I am driven to explore the intersection of data science and technology, leveraging my skills to build impactful solutions. I am eager to collaborate, contribute to open-source projects, and grow alongside the global developer community.
+# 🚀 About Me
 
-## 💡 Motto
-✨ "Learning never stops, and innovation begins where challenges arise."  
-#KeepLearning #DataScience #SoftwareDevelopment #MachineLearning #OpenSource
+I'm a **Software Engineer** passionate about designing secure, scalable, and intelligent software systems.
 
+Currently, I'm working on enterprise-grade backend solutions while continuously exploring Artificial Intelligence, Cybersecurity, Cloud Computing, and DevSecOps.
+
+I enjoy transforming complex engineering challenges into elegant software solutions that improve security, performance, and user experience.
+
+---
+
+## 🎯 Current Focus
+
+- 🔐 AI-Powered Cybersecurity
+- ☕ Java & Spring Boot Backend Development
+- ☁️ Cloud Native Applications
+- 🤖 Machine Learning
+- 🧠 System Design
+- ⚡ DevSecOps
+- 📈 Scalable Distributed Systems
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
+
+---
+
+### AI & Data Science
+
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Natural Language Processing
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+
+---
+
+### Cybersecurity
+
+- Identity & Access Management
+- Authentication
+- Authorization
+- OAuth 2.0
+- JWT
+- Secure Coding
+- AI Threat Detection
+
+---
+
+### DevOps & Cloud
+
+- Docker
+- Git
+- GitHub
+- Linux
+- CI/CD
+- AWS (Learning)
+- Kubernetes (Learning)
+
+---
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+---
+
+# 📊 Engineering Interests
+
+```text
+Software Engineering     ████████████████████
+
+Artificial Intelligence  ██████████████████
+
+Cybersecurity            █████████████████
+
+Backend Development      ███████████████████
+
+Cloud Computing          ███████████████
+
+Research                 ██████████████
+
+DevSecOps                █████████████
+```
+
+---
+
+# 🏗 Current Engineering Journey
+
+```text
+Requirement Analysis
+        │
+        ▼
+System Design
+        │
+        ▼
+Backend Development
+        │
+        ▼
+AI Integration
+        │
+        ▼
+Security Engineering
+        │
+        ▼
+Testing
+        │
+        ▼
+Deployment
+        │
+        ▼
+Continuous Monitoring
+```
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- Agentic AI
+- Cloud Architecture
+- Kubernetes
+- Advanced System Design
+- Distributed Systems
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DivyanshuCh07&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuCh07&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuCh07&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 Featured Areas
+
+- Enterprise Software Development
+- Secure Backend Engineering
+- Artificial Intelligence
+- Machine Learning
+- Identity & Access Management
+- Cloud Native Systems
+- DevSecOps
+- Research & Innovation
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/divyanshu-choudhary-b73801251">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:divyanshu3684@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Building Secure Software for an Intelligent Future."
+
+⭐ If you like my work, feel free to explore my repositories and connect with me.
+
+</div>
