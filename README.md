@@ -70,14 +70,6 @@ Problem → Requirements → Design → Develop → Secure
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=DivyanshuCh07&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌱 Currently Exploring
 
 Large Language Models • Agentic AI • Retrieval-Augmented Generation (RAG) • Advanced System Design • Distributed Systems • Kubernetes • Cloud Architecture
